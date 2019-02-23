@@ -1,4 +1,11 @@
-Why cnn?
+## Class 1 (21 Feb 2019)
+---
+
+##### Why cnn?
+[https://medium.com/technologymadeeasy/the-best-explanation-of-convolutional-neural-networks-on-the-internet-fbb8b1ad5df8](https://medium.com/technologymadeeasy/the-best-explanation-of-convolutional-neural-networks-on-the-internet-fbb8b1ad5df8)
+
+
+
 convert data into image (matrix)
 channels
 the bored cat experiment
