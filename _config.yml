@@ -32,6 +32,9 @@ plugins:
 excerpt_separator: "" 
 permalink: /:title/
 
+# Google Analytics
+google_analytics: UA-135887730-1
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
